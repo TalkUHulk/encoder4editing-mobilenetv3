@@ -1,5 +1,6 @@
 # encoder4editing with MobileNetV3
-  <img src="https://img.shields.io/badge/python3-pytorch-orange"></a>
+  <img src="https://img.shields.io/badge/python-3-green"></a>
+  <img src="https://img.shields.io/badge/pytorch-1.9-yellowgreen"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <a href="https://github.com/omertov/encoder4editing"><img src="https://img.shields.io/badge/reference-e4e-yellowgreen"></a>
 
