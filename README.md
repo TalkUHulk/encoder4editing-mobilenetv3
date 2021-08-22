@@ -39,7 +39,7 @@ python scripts/inference.py \
 ```
 
 ## More
-[Inference on openvino and more demo]()
+[Inference on openvino and more demo](https://github.com/TalkUHulk/realworld-stylegan2-encoder)
 
 
 
