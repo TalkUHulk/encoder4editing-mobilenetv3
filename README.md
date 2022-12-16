@@ -22,6 +22,8 @@ This code is heavily based on [encoder4editing](https://github.com/omertov/encod
 
 链接: https://pan.baidu.com/s/1JlJTyBmFLZhju4MpDHLdAA  密码: 086q
 
+[Google Drive](https://drive.google.com/file/d/18zK4A_iM6v8wHQAxd9_dmqGxLg3Z3Oyh/view?usp=share_link)
+
 ## Training Log
 ### Tensorboard
 
